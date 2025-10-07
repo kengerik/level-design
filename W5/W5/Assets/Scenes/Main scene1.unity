@@ -2778,7 +2778,7 @@ GameObject:
   - component: {fileID: 91986793}
   - component: {fileID: 91986792}
   m_Layer: 0
-  m_Name: Cube (9)
+  m_Name: Whiteboard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -66478,7 +66478,7 @@ GameObject:
   - component: {fileID: 749348076}
   - component: {fileID: 749348075}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: Chair1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
